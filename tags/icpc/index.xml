@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Icpc on YNU.cpc -横浜国立大学競技プログラミング部-</title>
+    <link>https://ynucpc.github.io/tags/icpc/</link>
+    <description>Recent content in Icpc on YNU.cpc -横浜国立大学競技プログラミング部-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 25 Nov 2019 13:42:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://ynucpc.github.io/tags/icpc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ICPC 2019 Asia Yokohama Regional Contest 参加記</title>
+      <link>https://ynucpc.github.io/blog/2019/11/25/icpc2019regional/</link>
+      <pubDate>Mon, 25 Nov 2019 13:42:38 +0900</pubDate>
+      
+      <guid>https://ynucpc.github.io/blog/2019/11/25/icpc2019regional/</guid>
+      <description>&lt;p&gt;11月16-18日に開催されたICPC 2019 Asia Yokohama Regional ContestにチームEldoradoとして参加してきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ICPC 2019 国内予選 参加記</title>
+      <link>https://ynucpc.github.io/blog/2019/07/14/icpc2019prelim/</link>
+      <pubDate>Sun, 14 Jul 2019 17:05:28 +0900</pubDate>
+      
+      <guid>https://ynucpc.github.io/blog/2019/07/14/icpc2019prelim/</guid>
+      <description>&lt;p&gt;7月12日(金)に行われたICPC2019国内予選に参加しました。&lt;br /&gt;
+横浜国立大学からは6チームが参加しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ICPCの解答提出方法について</title>
+      <link>https://ynucpc.github.io/blog/2019/07/12/howtoicpc2019/</link>
+      <pubDate>Fri, 12 Jul 2019 09:13:07 +0900</pubDate>
+      
+      <guid>https://ynucpc.github.io/blog/2019/07/12/howtoicpc2019/</guid>
+      <description>&lt;p&gt;ICPC国内予選の解答手順は特殊なのでよく理解しておく必要があります。&lt;br /&gt;
+最悪の場合1問も解けない場合に陥ります。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
